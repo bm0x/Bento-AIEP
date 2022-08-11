@@ -15,7 +15,7 @@ const CONFIG = {
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
-	enableDark: true,
+	darkTheme: true,
 
 	// Greetings
 	greetingMorning: 'Buenos Días!',
