@@ -171,6 +171,7 @@ body {
   color: var(--fg);
 }
 
+#dia,
 #month,
 #day {
   font-size: var(--fg-date);
@@ -178,6 +179,7 @@ body {
   color: var(--fg);
 }
 
+#month,
 #day {
   margin-left: 1.5rem;
 }
