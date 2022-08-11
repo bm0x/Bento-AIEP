@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Rafael / bm0x',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 	enableDark: true,
